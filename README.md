@@ -1,3 +1,4 @@
+Note ; The frontend part of this project is in the frontend branch.
 # WebRtc-Chat-App
 A video chat app for 1:1 communication,uses WebRTC and React <br><br>
 
